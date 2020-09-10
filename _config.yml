@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+# Site Settings
+title                    : "MONLO"
+title_separator          : "-"
+subtitle                 : "Historias con datos" 
+name                     : "Monserrat López"
+description              : "Página personal"
