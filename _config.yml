@@ -1,13 +1,6 @@
 theme: jekyll-theme-minimal
 # Site settings
-title: Monserrat López
-description: Jekyll Theme Minimal Resume
-
-# User settings
-username: Monserrat López
-user_description: I\'m an economist that believe in the power of data to tell stories.
-user_title: Monlo
+username: Monlo
+user_description: Historias con datos
+user_title: Monserrat López
 email: lopezmonserrat.14@gmail.com
-twitter_username: @MonLopez_
-
-exclude: ['package.json', 'src' , 'node_modules']
