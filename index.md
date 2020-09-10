@@ -2,9 +2,9 @@
 
 ¡Hola!
 
-Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia penal. 
+Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia. 
 
-### Markdown
+### Experiencia profesional
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
