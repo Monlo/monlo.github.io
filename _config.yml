@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
-title: Monlo
+title: Monserrat Lopez
 author: Monserrat
 logo: /photo/1.jpeg
 name: Monlo
 email: lopezmonserrat.14@gmail.com
-description: Historias con datos
+description: Análisis de datos e investigación sobre políticas públicas
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # generate social links in footer
