@@ -1,7 +1,12 @@
 theme: jekyll-theme-minimal
-# Site Settings
-title                    : "MONLO"
-title_separator          : "-"
-subtitle                 : "Historias con datos" 
-name                     : "Monserrat López"
-description              : "Página personal"
+# Site settings
+title: Monserrat López
+description: Jekyll Theme Minimal Resume
+
+# User settings
+username: Monserrat López
+user_description: I\'m an economist that believe in the power of data to tell stories.
+user_title: Monlo
+email: lopezmonserrat.14@gmail.com
+twitter_username: @MonLopez_
+
