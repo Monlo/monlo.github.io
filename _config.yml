@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+title: Monlo
+author: Monserrat
+  name: Monlo
+  email: lopezmonserrat.14@gmail.com
+description: Historias con datos
+show_excerpts: false # set to true to show excerpts on the homepage
+
+  # generate social links in footer
+  social_links:
+    twitter: MonLopez_
+    github:  Monlo
+    instagram: monlopez__
+
