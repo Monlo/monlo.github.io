@@ -10,3 +10,4 @@ user_title: Monlo
 email: lopezmonserrat.14@gmail.com
 twitter_username: @MonLopez_
 
+exclude: ['package.json', 'src' , 'node_modules']
