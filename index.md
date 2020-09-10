@@ -2,8 +2,7 @@
 
 ¡Hola!
 
-Mi nombre es Monserrat Lopez, soy economista por la Universidad de Guanajuato y me dedico al aná
-lis de datos sobre seguridad y justicia penal. 
+Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia penal. 
 
 ### Markdown
 
