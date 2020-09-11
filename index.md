@@ -28,7 +28,7 @@ Consultora externa para la validación del Protocolo de actuación para quienes 
 * Planeación y seguimiento de actividades
 
 ### Investigadora del Programa de Justicia de México Evalúa
-#### enero 2018 - marzo 2020
+##### enero 2018 - marzo 2020
 
 Evaluación de políticas públicas sobre el sistema de justicia penal en México.
 
@@ -38,7 +38,7 @@ Evaluación de políticas públicas sobre el sistema de justicia penal en Méxic
 * Redacción de artículos, reportes y policy briefs.
 
 ### Pasante en el Programa de Seguridad de México Evalúa
-#### septiembre 2017 - diciembre 2017
+##### septiembre 2017 - diciembre 2017
 
 Asistente de investigación para un proyecto de  georreferenciación de homicidios en la Ciudad de México.
 
@@ -48,12 +48,12 @@ Asistente de investigación para un proyecto de  georreferenciación de homicidi
 ## Estudios
 
 ### Diplomado en Data Cívica: *¿Cómo leer, entender y usar datos para periodistas y miembros de la sociedad civil?*
-#### Septiembre 2018 - diciembre 2018
+##### Septiembre 2018 - diciembre 2018
 
 Procesamiento, análisis y visualización de datos en R para desarrollar la investigación: [“Prisión preventiva: ¿más cárcel, menos víctimas?”](https://seguridad.nexos.com.mx/?p=1144), publicada en el blog de seguridad de Nexos.
 
 ### Licenciatura en Economía por la Universidad de Guanajuato
-#### agosto 2011 - diciembre 2016
+##### agosto 2011 - diciembre 2016
 
 En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denuncian los delitos?”, desarrollé un modelo econométrico con base en una encuesta de victimización del INEGI (ENVIPE 2016) para determinar qué variables afectan a la probabilidad de que las víctimas no  denuncien los delitos al Ministerio Público.
 
@@ -70,4 +70,4 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 * Artículo: Resistir la campaña del castigo.  [Animal Político (2018).](https://www.animalpolitico.com/lo-que-mexico-evalua/resistir-la-campana-del-castigo/)
 * Derechos de los usuarios en el Sistema de Justicia: [México Evalúa (2018).](https://www.mexicoevalua.org/derechos-usuarios/)
 * Video: Endurecer el sistema penal no reduce la inseguridad, [México Evalúa (2018).](https://www.youtube.com/watch?v=BNvq8X5HbJU&t=00s)
-* 5013 Homicidios CDMX: [México Evalúa (2018).](https://www.mexicoevalua.org/5013-homicidios-cdmx/).
+* 5013 Homicidios CDMX: [México Evalúa (2018).](https://www.mexicoevalua.org/5013-homicidios-cdmx/)
