@@ -8,7 +8,7 @@ Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y
 
 ### Consultra independiente
 
-#### México Evalúa
+#### - México Evalúa 
 ##### abril 2020 - a la fecha
 
 Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. Proyecto para la elaboración de modelos de investigación criminal para los delitos de peculado, corrupción y fraude cibernético en las Fiscalías de Tabasco, Jalisco, Ciudad de México y la Fiscalía General de la República.
@@ -18,7 +18,7 @@ Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), aus
 * Reacción de documentos.
 * Análisis de datos sobre incidencia delictiva de fuero común y federal.
 
-#### Documenta A.C.
+#### - Documenta A.C.
 ##### septiembre 2020 - a la fecha
 
 Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
@@ -59,15 +59,15 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
 
+* Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal? [Animal Político (2020).](https://www.animalpolitico.com/lo-que-mexico-evalua/cuanto-perdemos-si-perdemos-el-sistema-de-justicia-penal/)
+* Artículo: La justicia desordenada. [Nexos (2019).](https://seguridad.nexos.com.mx/?p=1402)
+* Video: A 11 años de la reforma penal, [México Evalúa (2019).](https://www.youtube.com/watch?v=TTSIWbd39nQ&t=00s)
 * Hacia una persecución penal estratégica: [México Evalúa (2019).](https://www.mexicoevalua.org/hacia-una-persecucion-penal-estrategica-policy-brief-001/)
-* De PGR a FGR: Observatorio de la transición 2019: México Evalúa (2019).
-* Lineamientos hacia la Transición: México Evalúa (2019).
-* Derechos de los usuarios en el Sistema de Justicia: México Evalúa (2018).
-* Hallazgos: Seguimiento y Evaluación del Sistema de Justicia Penal en México. México Evalúa (2017, 2018).
-* 5013 Homicidios CDMX: México Evalúa (2018).
-* Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal? Animal Político (Enero, 2020).
-* Artículo: La justicia desordenada. Nexos (Mayo, 2019).
-* Artículo: Prisión preventiva oficiosa: ¿más cárcel, menos víctimas? Nexos (Diciembre, 2018).
-* Artículo: Resistir la campaña del castigo.  Animal Político (Febrero, 2018)
-* Video: A 11 años de la reforma penal, México Evalúa (2019).
-* Video: Endurecer el sistema penal no reduce la inseguridad, México Evalúa (2018).
+* De PGR a FGR: Observatorio de la transición 2019: [México Evalúa (2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
+* Lineamientos hacia la Transición: [México Evalúa (2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
+* Artículo: Prisión preventiva oficiosa: ¿más cárcel, menos víctimas? [Nexos (2018).](https://seguridad.nexos.com.mx/?p=1144)
+* Hallazgos: Seguimiento y Evaluación del Sistema de Justicia Penal en México. México Evalúa ([2017](https://www.mexicoevalua.org/mexicoevalua/wp-content/uploads/2020/03/hallazgos2017.pdf), [2018](https://www.mexicoevalua.org/hallazgos-2018-seguimiento-evaluacion-del-sistema-justicia-penal-en-mexico/)).
+* Artículo: Resistir la campaña del castigo.  [Animal Político (2018).](https://www.animalpolitico.com/lo-que-mexico-evalua/resistir-la-campana-del-castigo/)
+* Derechos de los usuarios en el Sistema de Justicia: [México Evalúa (2018).](https://www.mexicoevalua.org/derechos-usuarios/)
+* Video: Endurecer el sistema penal no reduce la inseguridad, [México Evalúa (2018).](https://www.youtube.com/watch?v=BNvq8X5HbJU&t=00s)
+* 5013 Homicidios CDMX: [México Evalúa (2018).](https://www.mexicoevalua.org/5013-homicidios-cdmx/).
