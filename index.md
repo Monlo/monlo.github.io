@@ -6,7 +6,7 @@ Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y
 
 ## Experiencia profesional
 
-### Consultra independiente
+### Consultora independiente
 
 #### - México Evalúa 
 ##### abril 2020 - a la fecha
