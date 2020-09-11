@@ -4,34 +4,70 @@
 
 Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia. 
 
-### Experiencia profesional
+## Experiencia profesional
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Consultra independiente
 
-```markdown
-Syntax highlighted code block
+#### México Evalúa
+##### abril 2020 - a la fecha
 
-# Header 1
-## Header 2
-### Header 3
+Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. Proyecto para la elaboración de modelos de investigación criminal para los delitos de peculado, corrupción y fraude cibernético en las Fiscalías de Tabasco, Jalisco, Ciudad de México y la Fiscalía General de la República.
 
-- Bulleted
-- List
+* Procesamiento y análisis de información para la elaboración de reportes y entregables.
+* Elaboración de indicadores de evaluación.
+* Reacción de documentos.
+* Análisis de datos sobre incidencia delictiva de fuero común y federal.
 
-1. Numbered
-2. List
+#### Documenta A.C.
+##### septiembre 2020 - a la fecha
 
-**Bold** and _Italic_ and `Code` text
+Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
 
-[Link](url) and ![Image](src)
-```
+* Procesamiento y análisis de información cualitativa sobre impartición de justicia a personas con discapacidad
+* Construcción de instrumentos de levantamiento de información
+* Planeación y seguimiento de actividades
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Investigadora del Programa de Justicia de México Evalúa
+#### enero 2018 - marzo 2020
 
-### Jekyll Themes
+Evaluación de políticas públicas sobre el sistema de justicia penal en México.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Monlo/monlo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Recolección, procesamiento, análisis  y visualización de datos en R, Excel y Stata.
+* Elaboración de Ìndices e indicadores cualitativos y cuantitativos.
+* Desarrollo de metodologías de evaluación.
+* Redacción de artículos, reportes y policy briefs.
 
-### Support or Contact
+### Pasante en el Programa de Seguridad de México Evalúa
+#### septiembre 2017 - diciembre 2017
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Asistente de investigación para un proyecto de  georreferenciación de homicidios en la Ciudad de México.
+
+* Procesamiento y limpieza de bases de datos usando Stata y Excel.
+* Georeferenciación de homicidios en QGIS y Google Earth.
+
+## Estudios
+
+### Diplomado en Data Cívica: *¿Cómo leer, entender y usar datos para periodistas y miembros de la sociedad civil?*
+#### Septiembre 2018 - diciembre 2018
+
+Procesamiento, análisis y visualización de datos en R para desarrollar la investigación: [“Prisión preventiva: ¿más cárcel, menos víctimas?”](https://seguridad.nexos.com.mx/?p=1144), publicada en el blog de seguridad de Nexos.
+
+### Licenciatura en Economía por la Universidad de Guanajuato
+#### agosto 2011 - diciembre 2016
+
+En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denuncian los delitos?”, desarrollé un modelo econométrico con base en una encuesta de victimización del INEGI (ENVIPE 2016) para determinar qué variables afectan a la probabilidad de que las víctimas no  denuncien los delitos al Ministerio Público.
+
+## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
+
+* Hacia una persecución penal estratégica: [México Evalúa (2019).](https://www.mexicoevalua.org/hacia-una-persecucion-penal-estrategica-policy-brief-001/)
+* De PGR a FGR: Observatorio de la transición 2019: México Evalúa (2019).
+* Lineamientos hacia la Transición: México Evalúa (2019).
+* Derechos de los usuarios en el Sistema de Justicia: México Evalúa (2018).
+* Hallazgos: Seguimiento y Evaluación del Sistema de Justicia Penal en México. México Evalúa (2017, 2018).
+* 5013 Homicidios CDMX: México Evalúa (2018).
+* Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal? Animal Político (Enero, 2020).
+* Artículo: La justicia desordenada. Nexos (Mayo, 2019).
+* Artículo: Prisión preventiva oficiosa: ¿más cárcel, menos víctimas? Nexos (Diciembre, 2018).
+* Artículo: Resistir la campaña del castigo.  Animal Político (Febrero, 2018)
+* Video: A 11 años de la reforma penal, México Evalúa (2019).
+* Video: Endurecer el sistema penal no reduce la inseguridad, México Evalúa (2018).
