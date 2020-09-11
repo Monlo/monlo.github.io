@@ -9,3 +9,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  
+  # Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: MonLopez_
