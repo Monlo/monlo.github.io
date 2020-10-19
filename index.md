@@ -2,21 +2,11 @@
 
 ¡Hola!
 
-Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia. 
+Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre políticas públicas. 
 
 ## Experiencia profesional
 
 ### Consultora independiente
-
-#### - México Evalúa 
-##### abril 2020 - a la fecha
-
-Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. Proyecto para la elaboración de modelos de investigación criminal para los delitos de peculado, corrupción y fraude cibernético en las Fiscalías de Tabasco, Jalisco, Ciudad de México y la Fiscalía General de la República.
-
-* Procesamiento y análisis de información para la elaboración de reportes y entregables.
-* Elaboración de indicadores de evaluación.
-* Reacción de documentos.
-* Análisis de datos sobre incidencia delictiva de fuero común y federal.
 
 #### - Documenta A.C.
 ##### septiembre 2020 - a la fecha
@@ -26,6 +16,16 @@ Consultora externa para la validación del Protocolo de actuación para quienes 
 * Procesamiento y análisis de información cualitativa sobre impartición de justicia a personas con discapacidad
 * Construcción de instrumentos de levantamiento de información
 * Planeación y seguimiento de actividades
+
+#### - México Evalúa 
+##### abril 2020 - a la fecha
+
+Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. Proyecto para la elaboración de modelos de investigación criminal para los delitos de peculado, corrupción y fraude cibernético en las Fiscalías de Tabasco, Jalisco, Ciudad de México y la Fiscalía General de la República.
+
+* Procesamiento y análisis de información para la elaboración de reportes y entregables.
+* Elaboración de indicadores de evaluación.
+* Redacción de documentos.
+* Análisis de datos sobre incidencia delictiva de fuero común y federal.
 
 ### Investigadora del Programa de Justicia de México Evalúa
 ##### enero 2018 - marzo 2020
