@@ -2,14 +2,14 @@
 
 ¡Hola!
 
-Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre políticas públicas. 
+Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y soy analista de datos sobre políticas públicas. 
 
 ## Experiencia profesional
 
 ### Consultora independiente
 
 #### - Documenta A.C.
-##### septiembre 2020 - a la fecha
+##### septiembre 2020 - enero 2021
 
 Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
 
@@ -18,7 +18,7 @@ Consultora externa para la validación del Protocolo de actuación para quienes 
 * Planeación y seguimiento de actividades
 
 #### - México Evalúa 
-##### abril 2020 - a la fecha
+##### abril 2020 - diciembre 2020
 
 Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. Proyecto para la elaboración de modelos de investigación criminal para los delitos de peculado, corrupción y fraude cibernético en las Fiscalías de Tabasco, Jalisco, Ciudad de México y la Fiscalía General de la República.
 
