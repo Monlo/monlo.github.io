@@ -2,9 +2,24 @@
 
 ¡Hola!
 
-Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y soy analista de datos sobre políticas públicas. 
+Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos de políticas públicas. 
 
 ## Experiencia profesional
+
+### Analista de datos en [Impunidad Cero).](http://www.impunidadcero.org/)
+##### mayo 2021 - a la fecha
+
+Análisis de datos sobre justicia penal. 
+
+### Investigadore en [Causa en Común).](http://causaencomun.org.mx/beta/)
+##### enero 2021 - abril 2021
+
+Análisis de datos sobre seguridad pública. 
+
+#### - Documenta A.C.
+##### septiembre 2020 - enero 2021
+
+Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
 
 ### Consultora independiente
 
@@ -13,37 +28,20 @@ Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y
 
 Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
 
-* Procesamiento y análisis de información cualitativa sobre impartición de justicia a personas con discapacidad
-* Construcción de instrumentos de levantamiento de información
-* Planeación y seguimiento de actividades
-
 #### - México Evalúa 
 ##### abril 2020 - diciembre 2020
 
-Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. Proyecto para la elaboración de modelos de investigación criminal para los delitos de peculado, corrupción y fraude cibernético en las Fiscalías de Tabasco, Jalisco, Ciudad de México y la Fiscalía General de la República.
-
-* Procesamiento y análisis de información para la elaboración de reportes y entregables.
-* Elaboración de indicadores de evaluación.
-* Redacción de documentos.
-* Análisis de datos sobre incidencia delictiva de fuero común y federal.
+Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. 
 
 ### Investigadora del Programa de Justicia de México Evalúa
 ##### enero 2018 - marzo 2020
 
 Evaluación de políticas públicas sobre el sistema de justicia penal en México.
 
-* Recolección, procesamiento, análisis  y visualización de datos en R, Excel y Stata.
-* Elaboración de Ìndices e indicadores cualitativos y cuantitativos.
-* Desarrollo de metodologías de evaluación.
-* Redacción de artículos, reportes y policy briefs.
-
 ### Pasante en el Programa de Seguridad de México Evalúa
 ##### septiembre 2017 - diciembre 2017
 
 Asistente de investigación para un proyecto de  georreferenciación de homicidios en la Ciudad de México.
-
-* Procesamiento y limpieza de bases de datos usando Stata y Excel.
-* Georeferenciación de homicidios en QGIS y Google Earth.
 
 ## Estudios
 
@@ -59,6 +57,8 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
 
+* Artículo: La raíz de la violencia [El Sol de México (febrero, 2021).](https://www.animalpolitico.com/el-blog-de-causa-en-comun/la-raiz-de-la-violencia/)
+* Artículo: Ser policía durante la pandemia [El Sol de México (febrero, 2021).](https://www.elsoldemexico.com.mx/analisis/ser-policia-durante-la-pandemia-6377669.html)
 * Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal? [Animal Político (2020).](https://www.animalpolitico.com/lo-que-mexico-evalua/cuanto-perdemos-si-perdemos-el-sistema-de-justicia-penal/)
 * Artículo: La justicia desordenada. [Nexos (2019).](https://seguridad.nexos.com.mx/?p=1402)
 * Video: A 11 años de la reforma penal, [México Evalúa (2019).](https://www.youtube.com/watch?v=TTSIWbd39nQ&t=00s)
