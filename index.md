@@ -31,7 +31,7 @@ Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), aus
 ### Investigadora del Programa de Justicia de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
 
-Evaluación de políticas públicas sobre el sistema de justicia penal en México.
+Evaluación del sistema de justicia penal en México.
 
 ### Pasante en el Programa de Seguridad de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### septiembre 2017 - diciembre 2017
