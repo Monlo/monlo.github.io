@@ -2,7 +2,7 @@
 
 ¡Hola!
 
-Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos de políticas públicas. Los Softwares que utilizo con R, Excel y QGIS y estoy aprendiendo Python y SQL.  
+Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos de políticas públicas. Los Softwares que utilizo principalmente son R, Excel y QGIS y estoy aprendiendo Python y SQL.  
 
 ## Experiencia profesional
 
