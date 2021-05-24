@@ -6,12 +6,12 @@ Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y
 
 ## Experiencia profesional
 
-### Analista de datos en [Impunidad Cero).](http://www.impunidadcero.org/)
+### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/)
 ##### mayo 2021 - a la fecha
 
 Análisis de datos sobre justicia penal. 
 
-### Investigadore en [Causa en Común).](http://causaencomun.org.mx/beta/)
+### Investigadore en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
 
 Análisis de datos sobre seguridad pública. 
