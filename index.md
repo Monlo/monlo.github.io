@@ -21,7 +21,7 @@ Análisis de datos sobre seguridad pública.
 #### - [Documenta A.C.](https://www.documenta.org.mx/)
 ##### septiembre 2020 - enero 2021
 
-Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
+Consultora externa para la validación de un [Protocolo para la impartición de justicia a personas con discapacidad](https://www.scjn.gob.mx/registro/formulario/protocolo-personas-discapacidad/confirmation?token=sbYxbWrbRxAIvLk7vMpaEjH_7VY-amdUoMOVA8qK1Ls) de la Suprema Corte de Justicia de la Nación.
 
 #### - [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### abril 2020 - diciembre 2020
