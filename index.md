@@ -18,22 +18,22 @@ Análisis de datos sobre seguridad pública.
 
 ### Consultoría
 
-#### - Documenta A.C.
+#### - [Documenta A.C.] (https://www.documenta.org.mx/)
 ##### septiembre 2020 - enero 2021
 
 Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
 
-#### - México Evalúa 
+#### - [México Evalúa] (https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### abril 2020 - diciembre 2020
 
 Consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. 
 
-### Investigadora del Programa de Justicia de México Evalúa
+### Investigadora del Programa de Justicia de [México Evalúa] (https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
 
 Evaluación de políticas públicas sobre el sistema de justicia penal en México.
 
-### Pasante en el Programa de Seguridad de México Evalúa
+### Pasante en el Programa de Seguridad de [México Evalúa] (https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### septiembre 2017 - diciembre 2017
 
 Asistente de investigación para un proyecto de  georreferenciación de homicidios en la Ciudad de México.
