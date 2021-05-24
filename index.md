@@ -1,6 +1,6 @@
 # Acerca de mí
 
-¡Hola!
+¡Hola! Soy Monserrat López
 
 Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos de políticas públicas. Los Softwares que utilizo principalmente son R, Excel y QGIS y estoy aprendiendo Python y SQL.  
 
@@ -11,7 +11,7 @@ Soy economista por la Universidad de Guanajuato y me dedico al análisis de dato
 
 Análisis de datos sobre justicia penal. 
 
-### Investigadore en [Causa en Común.](http://causaencomun.org.mx/beta/)
+### Investigadora en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
 
 Análisis de datos sobre seguridad pública. 
