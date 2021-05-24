@@ -2,7 +2,7 @@
 
 ¡Hola!
 
-Mi nombre es Monserrat López, soy economista por la Universidad de Guanajuato y me dedico al análisis de datos de políticas públicas. 
+Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos de políticas públicas. Los Softwares que utilizo con R, Excel y QGIS y estoy aprendiendo Python y SQL.  
 
 ## Experiencia profesional
 
