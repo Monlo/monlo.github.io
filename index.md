@@ -16,12 +16,7 @@ Análisis de datos sobre justicia penal.
 
 Análisis de datos sobre seguridad pública. 
 
-#### - Documenta A.C.
-##### septiembre 2020 - diciembre 2021
-
-Consultora externa para la validación del Protocolo de actuación para quienes imparten justicia en casos que involucren derechos de personas con discapacidad de la Suprema Corte de Justicia de la Nación.
-
-### Consultora independiente
+### Consultoría
 
 #### - Documenta A.C.
 ##### septiembre 2020 - enero 2021
