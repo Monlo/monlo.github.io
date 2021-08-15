@@ -7,12 +7,12 @@ Soy economista por la Universidad de Guanajuato y me dedico al análisis de dato
 ### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/)
 ##### mayo 2021 - a la fecha
 
-Actualmente analizo datos sobre justicia. Algunas de las actividades que hago son la limpieza, procesamiento y análisis de datos, así como la elaboración de Índices y seguimiento de indicadores sobre la operación del sistema de justicia penal en México. Además, hago redacción de documentos y guías ciudadanas, y ayudo a crear contenido para redes sociales sobre cómo funciona el sistema de justicia penal. 
+Actualmente analizo datos sobre justicia. Algunas de las actividades que hago son la limpieza, procesamiento y análisis de datos, la elaboración de índices e indicadores sobre el funcionamiento del sistema de justicia penal. Además, hago redacción de documentos y guías ciudadanas y ayudo a crear contenido para redes sociales sobre cómo funciona el sistema de justicia penal en México. 
 
 ### Investigadora en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
 
-En este periodo hice análisis de datos sobre seguridad pública. Además, redacté artículos y documentos sobre incidencia delictiva a nivel nacional y estatal. 
+En este periodo hice análisis de datos sobre seguridad pública. Redacté artículos y documentos sobre incidencia delictiva a nivel nacional, estatal y municipal. Además, apoyé en la actualización y análisis de bases de datos de registros hemerográficos.
 
 ### Consultoría
 
