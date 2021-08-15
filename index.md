@@ -29,7 +29,7 @@ Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL),
 ### Investigadora del Programa de Justicia de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
 
-Hice investigación y análisis de datos sobre justicia penal. Algunas de las actividades que realicé fueron el procesamiento de bases de datos sobre justicia y la elaboración de indicadores e índices para evaluar el funcionamiento del sistema de justicia penal en todas sus etapas (seguridad pública, procuración e impartición de justicia y ejecución de sanciones). También redacté artículos, reportes y publicaciones de política pública. 
+Hice investigación y análisis de datos sobre justicia penal. Algunas de las actividades que realicé fueron el procesamiento de bases de datos sobre justicia y la elaboración de indicadores e índices para evaluar el funcionamiento del sistema de justicia penal en todas sus etapas. También redacté artículos, reportes y publicaciones de política pública. 
 
 ### Pasante en el Programa de Seguridad de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### septiembre 2017 - diciembre 2017
@@ -42,7 +42,7 @@ Fui asistente de investigación para un proyecto de georreferenciación de homic
 ### Diplomado en Data Cívica: *¿Cómo leer, entender y usar datos para periodistas y miembros de la sociedad civil?*
 ##### Septiembre 2018 - diciembre 2018
 
-Aprendí a procesar, analizar y visualizar datos en R para y desarrollé la investigación: [“Prisión preventiva: ¿más cárcel, menos víctimas?”](https://seguridad.nexos.com.mx/?p=1144), publicada en el blog de seguridad de Nexos.
+Aprendí a procesar, analizar y visualizar datos en R y desarrollé la investigación: [“Prisión preventiva: ¿más cárcel, menos víctimas?”](https://seguridad.nexos.com.mx/?p=1144), publicada en el blog de seguridad de Nexos.
 
 ### Licenciatura en Economía por la Universidad de Guanajuato
 ##### agosto 2011 - diciembre 2016
