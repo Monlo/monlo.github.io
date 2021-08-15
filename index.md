@@ -24,7 +24,7 @@ Fui consultora externa para la validación de un [Protocolo para la impartición
 #### - [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### abril 2020 - diciembre 2020
 
-Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México en temas de procuración de justicia y anticorrupción. Apoyé en la elaboración de diagnósticos y recomendaciones para mejorar la investigación de los delitos de homicidio doloso, peculado y fraude cibernético en tres fiscalías del país. 
+Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México. Apoyé en la elaboración de diagnósticos y recomendaciones para mejorar la investigación de los delitos de homicidio doloso, peculado y fraude cibernético en tres fiscalías del país. 
 
 ### Investigadora del Programa de Justicia de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
