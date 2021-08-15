@@ -9,29 +9,29 @@ Soy economista por la Universidad de Guanajuato y me dedico al análisis de dato
 ### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/)
 ##### mayo 2021 - a la fecha
 
-Actualmente analizo datos sobre justicia. Algunas de las actividades que realizo son la limpieza, procesamiento y análisis de datos, así como la elaboración de Índices y seguimiento de indicadores sobre la operación del sistema de justicia penal en México. Además, hago redacción de documentos y guías ciudadanas, y ayudo a crear contenido para redes sociales sobre cómo funciona el sistema de justicia penal. 
+Actualmente analizo datos sobre justicia. Algunas de las actividades que hago son la limpieza, procesamiento y análisis de datos, así como la elaboración de Índices y seguimiento de indicadores sobre la operación del sistema de justicia penal en México. Además, hago redacción de documentos y guías ciudadanas, y ayudo a crear contenido para redes sociales sobre cómo funciona el sistema de justicia penal. 
 
 ### Investigadora en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
 
-En este periodo hice análisis de datos sobre seguridad pública. Realicé actividades como la redacción de artículos y documentos sobre incidencia delictiva a nivel nacional y estatal. 
+En este periodo hice análisis de datos sobre seguridad pública. Además, redacté artículos y documentos sobre incidencia delictiva a nivel nacional y estatal. 
 
 ### Consultoría
 
 #### - [Documenta A.C.](https://www.documenta.org.mx/)
 ##### septiembre 2020 - enero 2021
 
-Fui consultora externa para la validación de un [Protocolo para la impartición de justicia a personas con discapacidad](https://www.scjn.gob.mx/registro/formulario/protocolo-personas-discapacidad/confirmation?token=sbYxbWrbRxAIvLk7vMpaEjH_7VY-amdUoMOVA8qK1Ls) de la Suprema Corte de Justicia de la Nación. Apoyé la sistematización, procesamiento y análisis de información de encuestas, grupos de enfoque y entrevistas. 
+Fui consultora externa para la validación de un [Protocolo para la impartición de justicia a personas con discapacidad](https://www.scjn.gob.mx/registro/formulario/protocolo-personas-discapacidad/confirmation?token=sbYxbWrbRxAIvLk7vMpaEjH_7VY-amdUoMOVA8qK1Ls) de la Suprema Corte de Justicia de la Nación. Apoyé en la sistematización, procesamiento y análisis de información de encuestas, grupos de enfoque y entrevistas. 
 
 #### - [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### abril 2020 - diciembre 2020
 
-Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México en temas de procuración de justicia. Apoyé en la elaboración de diagnósticos y recomendaciones para mejorar la investigación de los delitos de homicidio doloso, peculado y fraude cibernético en tres fiscalías del país. 
+Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), auspiciado por la Embajada Británica en México en temas de procuración de justicia y anticorrupción. Apoyé en la elaboración de diagnósticos y recomendaciones para mejorar la investigación de los delitos de homicidio doloso, peculado y fraude cibernético en tres fiscalías del país. 
 
 ### Investigadora del Programa de Justicia de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
 
-Fui investigadora y analista de datos sobre justicia penal. Las principales actividades que realicé fueron el procesamiento de bases de datos sobre justicia y la elaboración de indicadores e índices para evaluar el funcionamiento del sistema de justicia penal en todas sus etapas (seguridad pública, procuración e impartición de justicia y ejecución de sanciones). También publiqué artículos y reportes de política pública. 
+Hice investigación y análisis de datos sobre justicia penal. Algunas de las actividades que realicé fueron el procesamiento de bases de datos sobre justicia y la elaboración de indicadores e índices para evaluar el funcionamiento del sistema de justicia penal en todas sus etapas (seguridad pública, procuración e impartición de justicia y ejecución de sanciones). También redacté artículos, reportes y publicaciones de política pública. 
 
 ### Pasante en el Programa de Seguridad de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### septiembre 2017 - diciembre 2017
@@ -44,7 +44,7 @@ Fui asistente de investigación para un proyecto de georreferenciación de homic
 ### Diplomado en Data Cívica: *¿Cómo leer, entender y usar datos para periodistas y miembros de la sociedad civil?*
 ##### Septiembre 2018 - diciembre 2018
 
-Procesamiento, análisis y visualización de datos en R para desarrollar la investigación: [“Prisión preventiva: ¿más cárcel, menos víctimas?”](https://seguridad.nexos.com.mx/?p=1144), publicada en el blog de seguridad de Nexos.
+Aprendí a procesar, analizar y visualizar datos en R para y desarrollé la investigación: [“Prisión preventiva: ¿más cárcel, menos víctimas?”](https://seguridad.nexos.com.mx/?p=1144), publicada en el blog de seguridad de Nexos.
 
 ### Licenciatura en Economía por la Universidad de Guanajuato
 ##### agosto 2011 - diciembre 2016
