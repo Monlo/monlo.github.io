@@ -2,19 +2,19 @@
 
 ¡Hola! Soy Monserrat López
 
-Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos de políticas públicas. Los Softwares que utilizo principalmente son R, Excel y QGIS y estoy aprendiendo Python y SQL.  
+Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia. Mis principales herramientas son las hojas de cálculo, R, Google Workspace y Notion. Siempre estoy en constante aprendizaje, actualmente me encuentro aprendiendo Python y SQL.
 
 ## Experiencia profesional
 
 ### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/)
 ##### mayo 2021 - a la fecha
 
-Análisis de datos sobre justicia penal. 
+Analista de datos sobre justicia. Análisis de datos, elaboración de Índices y seguimiento de indicadores sobre la operación del sistema de justicia penal en México. Redacción de documentos y guías ciudadanas, así como elaboración de contenido digital para redes sociales sobre cómo funciona el sistema de justicia penal. 
 
 ### Investigadora en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
 
-Análisis de datos sobre seguridad pública. 
+Investigadora en temas de seguridad pública. Redacción de artículos y documentos de análisis sobre incidencia delictiva a nivel nacional y estatal. 
 
 ### Consultoría
 
@@ -66,3 +66,4 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 * Derechos de los usuarios en el Sistema de Justicia: [México Evalúa (2018).](https://www.mexicoevalua.org/derechos-usuarios/)
 * Video: Endurecer el sistema penal no reduce la inseguridad, [México Evalúa (2018).](https://www.youtube.com/watch?v=BNvq8X5HbJU&t=00s)
 * 5013 Homicidios CDMX: [México Evalúa (2018).](https://www.mexicoevalua.org/5013-homicidios-cdmx/)
+
