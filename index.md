@@ -1,7 +1,5 @@
 # Acerca de mí
 
-¡Hola! Soy Monserrat López
-
 Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia. Mis principales herramientas son las hojas de cálculo, R, Google Workspace y Notion. Siempre estoy en constante aprendizaje, actualmente me encuentro aprendiendo Python y SQL.
 
 ## Experiencia profesional
