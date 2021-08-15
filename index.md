@@ -47,7 +47,7 @@ Aprendí a procesar, analizar y visualizar datos en R para y desarrollé la inve
 ### Licenciatura en Economía por la Universidad de Guanajuato
 ##### agosto 2011 - diciembre 2016
 
-En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denuncian los delitos?”, desarrollé un modelo econométrico con base en una encuesta de victimización del INEGI (ENVIPE 2016) para determinar qué variables afectan a la probabilidad de que las víctimas no  denuncien los delitos al Ministerio Público.
+En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denuncian los delitos?”, desarrollé un modelo econométrico con base en una encuesta de victimización del INEGI (ENVIPE 2016) para explorar qué variables afectan a la probabilidad de que las víctimas no  denuncien los delitos al Ministerio Público.
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
 
