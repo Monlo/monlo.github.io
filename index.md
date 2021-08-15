@@ -7,7 +7,7 @@ Soy economista por la Universidad de Guanajuato y me dedico al análisis de dato
 ### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/)
 ##### mayo 2021 - a la fecha
 
-Actualmente analizo datos sobre justicia. Algunas de las actividades que hago son la limpieza, procesamiento y análisis de datos, la elaboración de índices e indicadores sobre el funcionamiento del sistema de justicia penal. Además, hago redacción de documentos y guías ciudadanas y ayudo a crear contenido para redes sociales sobre cómo funciona el sistema de justicia penal en México. 
+Actualmente analizo datos sobre justicia. Algunas de las actividades que hago son la limpieza, procesamiento y análisis de datos, así como la elaboración de índices e indicadores sobre el funcionamiento del sistema de justicia penal. Además, apoyo en la redacción de documentos y guías ciudadanas, y a crear contenido para redes sociales sobre cómo funciona el sistema de justicia penal en México. 
 
 ### Investigadora en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
@@ -29,7 +29,7 @@ Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL),
 ### Investigadora del Programa de Justicia de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
 
-Hice investigación y análisis de datos sobre justicia penal. Algunas de las actividades que realicé fueron el procesamiento de bases de datos sobre justicia y la elaboración de indicadores e índices para evaluar el funcionamiento del sistema de justicia penal en todas sus etapas. También redacté artículos, reportes y publicaciones de política pública. 
+Hice investigación y análisis de datos sobre justicia penal. Apoyé en la elaboración de bases de datos a partir de solicitudes de información y en el procesamiento, sistematización y análisis de datos sobre justicia. Apoyé en elaboración de indicadores e índices para evaluar el funcionamiento del sistema de justicia penal en todas sus etapas. También redacté artículos, reportes y publicaciones de política pública. 
 
 ### Pasante en el Programa de Seguridad de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### septiembre 2017 - diciembre 2017
