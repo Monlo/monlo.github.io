@@ -50,7 +50,7 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
 
-* Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF) [Impunidad Cero] (https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1638893933O19.pdf)
+* Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF) [Impunidad Cero](https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1638893933O19.pdf)
 * Artículo: La raíz de la violencia [Animal Político](https://www.animalpolitico.com/el-blog-de-causa-en-comun/la-raiz-de-la-violencia/)
 * Artículo: Ser policía durante la pandemia [El Sol de México (febrero, 2021).](https://www.elsoldemexico.com.mx/analisis/ser-policia-durante-la-pandemia-6377669.html)
 * Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal? [Animal Político (2020).](https://www.animalpolitico.com/lo-que-mexico-evalua/cuanto-perdemos-si-perdemos-el-sistema-de-justicia-penal/)
