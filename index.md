@@ -4,7 +4,7 @@ Soy economista por la Universidad de Guanajuato y me dedico al análisis de dato
 
 ## Experiencia profesional
 
-### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/)
+### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/quienesSomos.php?id=2&t=quienes-somos)
 ##### mayo 2021 - a la fecha
 
 Soy analista de datos en temas de justicia penal. Ayudo en la limpieza, procesamiento y análisis de datos, así como en la elaboración de Índices e indicadores. Además, apoyo en la redacción de documentos y en la creación de contenido para redes sociales. 
