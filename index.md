@@ -60,7 +60,7 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 * Investigación: De PGR a FGR: Observatorio de la transición 2019, [México Evalúa (2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
 * Investigación: Lineamientos hacia la Transición, [México Evalúa (2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
 * Artículo: Prisión preventiva oficiosa: ¿más cárcel, menos víctimas?, [Blog de Seguridad de Nexos (2018).](https://seguridad.nexos.com.mx/?p=1144)
-* Hallazgos: Seguimiento y Evaluación del Sistema de Justicia Penal en México. México Evalúa ([2017](https://www.mexicoevalua.org/mexicoevalua/wp-content/uploads/2020/03/hallazgos2017.pdf), [2018](https://www.mexicoevalua.org/hallazgos-2018-seguimiento-evaluacion-del-sistema-justicia-penal-en-mexico/)).
+* Investigación: Hallazgos, Seguimiento y Evaluación del Sistema de Justicia Penal en México. México Evalúa ([2017](https://www.mexicoevalua.org/mexicoevalua/wp-content/uploads/2020/03/hallazgos2017.pdf), [2018](https://www.mexicoevalua.org/hallazgos-2018-seguimiento-evaluacion-del-sistema-justicia-penal-en-mexico/)).
 * Artículo: Resistir la campaña del castigo,  [Animal Político (2018).](https://www.animalpolitico.com/lo-que-mexico-evalua/resistir-la-campana-del-castigo/)
 * Investigación: Derechos de los usuarios en el Sistema de Justicia, [México Evalúa (2018).](https://www.mexicoevalua.org/derechos-usuarios/)
 * Video: Endurecer el sistema penal no reduce la inseguridad, [México Evalúa (2018).](https://www.youtube.com/watch?v=BNvq8X5HbJU&t=00s)
