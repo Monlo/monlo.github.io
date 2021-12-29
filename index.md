@@ -16,6 +16,11 @@ En este periodo hice análisis de datos sobre seguridad pública. Redacté artí
 
 ### Consultoría
 
+#### - [INCUBA ONG](https://www.incuba.ong/)
+##### noviembre 2020 
+
+Hice consultoría en análisis de datos para el reporte ["Cambios en el panorama de las organizaciones y el financiamiento a raíz del covid-19"](https://www.incuba.ong/uploads/1/2/0/2/120208919/cambios_en_el_panorama_de_las_organizaciones_y_el_financiamiento_a_rai%CC%81z_del_covid-19.pdf). 
+
 #### - [Documenta A.C.](https://www.documenta.org.mx/)
 ##### septiembre 2020 - enero 2021
 
@@ -50,10 +55,12 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
 
-* Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF) [Impunidad Cero](https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1638893933O19.pdf)
-* Artículo: La raíz de la violencia [Animal Político](https://www.animalpolitico.com/el-blog-de-causa-en-comun/la-raiz-de-la-violencia/)
+* Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF) [Impunidad Cero (noviembre, 2021)](https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1638893933O19.pdf)
+* Artículo: Violencia en línea, [Dialogando (marzo, 2021)](https://dialogando.com.mx/violencia-en-linea/)
+* Artículo: La raíz de la violencia [Animal Político (marzo, 2021)](https://www.animalpolitico.com/el-blog-de-causa-en-comun/la-raiz-de-la-violencia/)
 * Artículo: Ser policía durante la pandemia [El Sol de México (febrero, 2021).](https://www.elsoldemexico.com.mx/analisis/ser-policia-durante-la-pandemia-6377669.html)
-* Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal? [Animal Político (2020).](https://www.animalpolitico.com/lo-que-mexico-evalua/cuanto-perdemos-si-perdemos-el-sistema-de-justicia-penal/)
+* Reporte: Cambios en el panorama de las organizaciones y el financiamiento a raíz del covid-19, [Incuba ONG (2020)](https://www.incuba.ong/uploads/1/2/0/2/120208919/cambios_en_el_panorama_de_las_organizaciones_y_el_financiamiento_a_rai%CC%81z_del_covid-19.pdf)
+* Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal? [Animal Político (enero, 2020).](https://www.animalpolitico.com/lo-que-mexico-evalua/cuanto-perdemos-si-perdemos-el-sistema-de-justicia-penal/)
 * Artículo: La justicia desordenada. [Blog de Seguridad de Nexos (2019).](https://seguridad.nexos.com.mx/?p=1402)
 * Video: A 11 años de la reforma penal, [México Evalúa (2019).](https://www.youtube.com/watch?v=TTSIWbd39nQ&t=00s)
 * Policy Brief: Hacia una persecución penal estratégica, [México Evalúa (2019).](https://www.mexicoevalua.org/hacia-una-persecucion-penal-estrategica-policy-brief-001/)
