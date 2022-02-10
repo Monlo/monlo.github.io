@@ -1,56 +1,46 @@
-# Acerca de mí
-
+# Sobre de mí
 Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia. Mis principales herramientas son las hojas de cálculo, R, Google Workspace y Notion. Siempre estoy en constante aprendizaje, actualmente estoy aprendiendo Python y SQL.
 
 ## Experiencia profesional
 
 ### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/quienesSomos.php?id=2&t=quienes-somos)
 ##### mayo 2021 - a la fecha
-
 Soy analista de datos en temas de justicia penal. Ayudo en la limpieza, procesamiento y análisis de datos, así como en la elaboración de Índices e indicadores. Además, apoyo en la redacción de documentos y en la creación de contenido para redes sociales. 
 
 ### Investigadora en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
-
 En este periodo hice análisis de datos sobre seguridad pública. Redacté artículos y documentos sobre incidencia delictiva a nivel nacional, estatal y municipal. Además, apoyé en la actualización y análisis de bases de datos de registros hemerográficos.
 
 ### Consultoría
 
 #### - [INCUBA ONG](https://www.incuba.ong/)
 ##### noviembre 2020 
-
 Hice consultoría en análisis de datos para el reporte ["Cambios en el panorama de las organizaciones y el financiamiento a raíz del covid-19"](https://www.incuba.ong/uploads/1/2/0/2/120208919/cambios_en_el_panorama_de_las_organizaciones_y_el_financiamiento_a_rai%CC%81z_del_covid-19.pdf). 
 
 #### - [Documenta A.C.](https://www.documenta.org.mx/)
 ##### septiembre 2020 - enero 2021
-
-Fui consultora externa para la validación de un [Protocolo para la impartición de justicia a personas con discapacidad](https://www.scjn.gob.mx/registro/formulario/protocolo-personas-discapacidad/confirmation?token=sbYxbWrbRxAIvLk7vMpaEjH_7VY-amdUoMOVA8qK1Ls) de la Suprema Corte de Justicia de la Nación. Apoyé en la sistematización, procesamiento y análisis de información de encuestas, grupos de enfoque y entrevistas. 
+Fui consultora externa para la actualización del [Protocolo para la impartición de justicia a personas con discapacidad](https://www.scjn.gob.mx/registro/formulario/protocolo-personas-discapacidad/confirmation?token=sbYxbWrbRxAIvLk7vMpaEjH_7VY-amdUoMOVA8qK1Ls) de la Suprema Corte de Justicia de la Nación (SCJN) en México. Apoyé en la sistematización, procesamiento y análisis de información de encuestas, grupos de enfoque y entrevistas. 
 
 #### - [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### abril 2020 - diciembre 2020
-
 Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), de la Embajada Británica en México. Apoyé en la elaboración de diagnósticos y recomendaciones para mejorar la investigación de los delitos de homicidio doloso, peculado y fraude cibernético en tres fiscalías del país. 
 
 ### Investigadora del Programa de Justicia de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
-
-Hice investigación y análisis de datos sobre justicia penal. Apoyé en la elaboración de bases de datos de solicitudes de información y en el procesamiento, sistematización y análisis de datos. Además, apoyé en elaboración de indicadores e índices. También redacté artículos, reportes y publicaciones. 
+Hice investigación y análisis de datos sobre justicia penal. Apoyé en la elaboración de bases de datos basadas en solicitudes de información y en su procesamiento y análisis. También apoyé en el cálculo de Índices e indicadores, y en la redacción de artículos y publicaciones. 
 
 ### Pasante en el Programa de Seguridad de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### septiembre 2017 - diciembre 2017
-
 Fui asistente de investigación para un proyecto de georreferenciación de homicidios en la Ciudad de México. Aprendí a hacer mapas en QGis y a hacer limpieza de bases de datos georreferenciadas. 
 
 ## Estudios
 
 ### Diplomado en Data Cívica: *¿Cómo leer, entender y usar datos para periodistas y miembros de la sociedad civil?*
 ##### Septiembre 2018 - diciembre 2018
-
 Aprendí a procesar, analizar y visualizar datos en R y desarrollé la investigación: [“Prisión preventiva: ¿más cárcel, menos víctimas?”](https://seguridad.nexos.com.mx/?p=1144), publicada en el blog de seguridad de Nexos.
 
 ### Licenciatura en Economía por la Universidad de Guanajuato
 ##### agosto 2011 - diciembre 2016
-
 En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denuncian los delitos?”, desarrollé un modelo econométrico con base en una encuesta de victimización del INEGI (ENVIPE 2016) para explorar qué variables afectan a la probabilidad de que las víctimas no  denuncien los delitos al Ministerio Público.
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
