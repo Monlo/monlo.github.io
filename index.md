@@ -45,6 +45,7 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
 
+* Artículo: La violencia de género escala, [Este país (marzo, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/violencia-genero/) 
 * Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF), [Impunidad Cero (noviembre, 2021)](https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1638893933O19.pdf)
 * Artículo: Violencia en línea, [Dialogando (marzo, 2021)](https://dialogando.com.mx/violencia-en-linea/)
 * Artículo: La raíz de la violencia, [Animal Político (marzo, 2021)](https://www.animalpolitico.com/el-blog-de-causa-en-comun/la-raiz-de-la-violencia/)
