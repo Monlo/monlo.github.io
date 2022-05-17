@@ -23,7 +23,7 @@ Fui consultora externa para la actualización del [Protocolo para la impartició
 
 #### - [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### abril 2020 - diciembre 2020
-Fui consultora para el Programa de Anti-Corrupción y Estado de Derecho (ACROL), de la Embajada Británica en México. Apoyé en la elaboración de diagnósticos y recomendaciones para mejorar la investigación de los delitos de homicidio doloso, peculado y fraude cibernético en tres fiscalías del país. 
+Fui consultora para el [Programa de Anti-Corrupción y Estado de Derecho (ACROL)](https://www.gov.uk/government/news/495785.es-419), de la Embajada Británica en México. Apoyé en la elaboración de diagnósticos y recomendaciones para mejorar la investigación de los delitos de homicidio doloso, peculado y fraude cibernético en tres fiscalías del país. 
 
 ### Investigadora del Programa de Justicia de [México Evalúa](https://www.mexicoevalua.org/fallas-origen-indice-confiabilidad-la-estadistica-criminal-icec/)
 ##### enero 2018 - marzo 2020
@@ -45,6 +45,10 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 
 ## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
 
+* Artículo: ¿A quién le toca investigar los casos de desaparición y feminicidio?. [Este país (mayo, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/investigar-desaparicion-feminicidio/) 
+* Reporte: Recomendaciones para abordar la detección e investigación del fraude cibernético en México. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057296/FRAUDE_CIBERNETICO.pdf)
+* Reporte: Modelo estandarizado para la investigación y persecución de delitos de homicidio doloso. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057298/INVESTIGACION_HOMICIDIO_DOLOSO.pdf) 
+* Reporte: Modelo estandarizado para la investigación de peculado. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057297/INVESTIGACI%C3%93N_DE_PECULADO.pdf) 
 * Investigación: La Internet también es de las infancias. [LACNIC (abril, 2022)](https://descargas.lacnic.net/lideres/2021/luisa-alfaro/VERSION%20FINAL%20EXTENDIDA_La%20Internet%20tambie%CC%81n%20es%20de%20las%20Infancias.pdf) 
 * Reporte: Plataformas digitales de denuncia en México, casos de estudio y buenas prácticas. [Impunidad Cero (marzo, 2022)](https://www.impunidadcero.org/uploads/app/articulo/163/contenido/1648153688Y93.pdf) 
 * Artículo: La violencia de género escala. [Este país (marzo, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/violencia-genero/) 
