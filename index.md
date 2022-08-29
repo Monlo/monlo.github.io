@@ -1,15 +1,19 @@
 # Sobre de mí
-Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre seguridad y justicia. Mis principales herramientas son las hojas de cálculo, R, Google Workspace y Notion. Siempre estoy en constante aprendizaje, actualmente estoy aprendiendo Python y SQL.
+Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre políticias públicas. Me especializo en temas de seguridad, justicia, derechos humanos y derechos digitales en México y Latinoamérica. Mis principales herramientas son las hojas de cálculo, R, Google Workspace y Notion. Siempre estoy en constante aprendizaje, actualmente estoy aprendiendo Python y SQL.
 
 ## Experiencia profesional
 
 ### Analista de datos en [Impunidad Cero.](http://www.impunidadcero.org/quienesSomos.php?id=2&t=quienes-somos)
 ##### mayo 2021 - a la fecha
-Soy analista de datos en temas de justicia penal. Ayudo en la limpieza, procesamiento y análisis de datos, así como en la elaboración de Índices e indicadores. Además, apoyo en la redacción de documentos y en la creación de contenido para redes sociales. 
+Soy analista de datos en temas de justicia penal. Ayudo en la limpieza, procesamiento y análisis de datos, así como en la elaboración de Índices e indicadores. Además, apoyo en la redacción de documentos y artículos, doy entrevistas a medios y apoyo en la creación de contenido para redes sociales. 
+
+### Co-fundadora de [Hijas de Internet](https://twitter.com/hijasdeInternet)
+##### septiembre 2020 - a la fecha
+Hijas de Internet es una iniciativa de mujeres que busca promover una Internet más segura, diversa e inclusiva para todas las personas, en específico en México y en Latinoamérica. Soy co-host del [podcast de hijas de Internet](https://anchor.fm/hijas-de-internet) y hago investigación y divulgación sobre tecnología y derechos humanos.
 
 ### Investigadora en [Causa en Común.](http://causaencomun.org.mx/beta/)
 ##### enero 2021 - abril 2021
-En este periodo hice análisis de datos sobre seguridad pública. Redacté artículos y documentos sobre incidencia delictiva a nivel nacional, estatal y municipal. Además, apoyé en la actualización y análisis de bases de datos de registros hemerográficos.
+En este periodo hice análisis de datos sobre seguridad pública. Redacté artículos y documentos sobre incidencia delictiva a nivel nacional, estatal y municipal. Además, apoyé en la actualización y análisis de bases de datos y en dar entrevistas a medios locales y nacionales sobre seguridad pública en México.
 
 ### Consultoría
 
@@ -34,6 +38,9 @@ Hice investigación y análisis de datos sobre justicia penal. Apoyé en la elab
 Fui asistente de investigación para un proyecto de georreferenciación de homicidios en la Ciudad de México. Aprendí a hacer mapas en QGis y a hacer limpieza de bases de datos georreferenciadas. 
 
 ## Estudios
+### Social Data School 2022, *Universidad de Cambridge*
+##### Junio 2022
+Participé en la escuela de verano con el proyecto de investigación "Impunidad en desapariciones en México" (en desarrollo).
 
 ### Diplomado en Data Cívica: *¿Cómo leer, entender y usar datos para periodistas y miembros de la sociedad civil?*
 ##### Septiembre 2018 - diciembre 2018
