@@ -43,30 +43,44 @@ Aprendí a procesar, analizar y visualizar datos en R y desarrollé la investiga
 ##### agosto 2011 - diciembre 2016
 En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denuncian los delitos?”, desarrollé un modelo econométrico con base en una encuesta de victimización del INEGI (ENVIPE 2016) para explorar qué variables afectan a la probabilidad de que las víctimas no  denuncien los delitos al Ministerio Público.
 
-## Reportes, publicaciones, artículos y vídeos en los que he colaborado:
-
-* Artículo: ¿A quién le toca investigar los casos de desaparición y feminicidio?. [Este país (mayo, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/investigar-desaparicion-feminicidio/) 
+## Reportes, publicaciones e investigaciones
+* Reporte: Percepción de impunidad 2022. [Impunidad Cero (agosto, 2022)](https://www.impunidadcero.org/uploads/app/articulo/170/contenido/1661453368W61.pdf)
 * Reporte: Recomendaciones para abordar la detección e investigación del fraude cibernético en México. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057296/FRAUDE_CIBERNETICO.pdf)
 * Reporte: Modelo estandarizado para la investigación y persecución de delitos de homicidio doloso. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057298/INVESTIGACION_HOMICIDIO_DOLOSO.pdf) 
-* Reporte: Modelo estandarizado para la investigación de peculado. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057297/INVESTIGACI%C3%93N_DE_PECULADO.pdf) 
+* Reporte: Modelo estandarizado para la investigación de peculado. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057297/INVESTIGACI%C3%93N_DE_PECULADO.pdf)
 * Investigación: La Internet también es de las infancias. [LACNIC (abril, 2022)](https://descargas.lacnic.net/lideres/2021/luisa-alfaro/VERSION%20FINAL%20EXTENDIDA_La%20Internet%20tambie%CC%81n%20es%20de%20las%20Infancias.pdf) 
 * Reporte: Plataformas digitales de denuncia en México, casos de estudio y buenas prácticas. [Impunidad Cero (marzo, 2022)](https://www.impunidadcero.org/uploads/app/articulo/163/contenido/1648153688Y93.pdf) 
-* Artículo: La violencia de género escala. [Este país (marzo, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/violencia-genero/) 
-* Artículo: Seguridad digital con perspectiva de género. [Blog de Vita Activa (febrero, 2022)](https://vita-activa.org/seguridad-digital-con-perspectiva-de-genero/) 
 * Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF). [Impunidad Cero (noviembre, 2021)](https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1638893933O19.pdf)
-* Artículo: Violencia en línea. [Dialogando (marzo, 2021)](https://dialogando.com.mx/violencia-en-linea/)
-* Artículo: La raíz de la violencia. [Animal Político (marzo, 2021)](https://www.animalpolitico.com/el-blog-de-causa-en-comun/la-raiz-de-la-violencia/)
-* Artículo: Ser policía durante la pandemia. [El Sol de México (febrero, 2021).](https://www.elsoldemexico.com.mx/analisis/ser-policia-durante-la-pandemia-6377669.html)
 * Reporte: Cambios en el panorama de las organizaciones y el financiamiento a raíz del covid-19. [Incuba ONG (noviembre, 2020)](https://www.incuba.ong/uploads/1/2/0/2/120208919/cambios_en_el_panorama_de_las_organizaciones_y_el_financiamiento_a_rai%CC%81z_del_covid-19.pdf)
-* Artículo: ¿Cuánto perdemos si perdemos el sistema de justicia penal?. [Animal Político (enero, 2020).](https://www.animalpolitico.com/lo-que-mexico-evalua/cuanto-perdemos-si-perdemos-el-sistema-de-justicia-penal/)
-* Artículo: La justicia desordenada. [Blog de Seguridad de Nexos (mayo, 2019).](https://seguridad.nexos.com.mx/?p=1402)
-* Video: A 11 años de la reforma penal. [México Evalúa (junio, 2019).](https://www.youtube.com/watch?v=TTSIWbd39nQ&t=00s)
 * Policy Brief: Hacia una persecución penal estratégica. [México Evalúa (enero,2019).](https://www.mexicoevalua.org/hacia-una-persecucion-penal-estrategica-policy-brief-001/)
 * Investigación: De PGR a FGR: Observatorio de la transición 2019. [México Evalúa (2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
 * Investigación: Lineamientos hacia la Transición. [México Evalúa (marzo, 2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
-* Artículo: Prisión preventiva oficiosa: ¿más cárcel, menos víctimas?. [Blog de Seguridad de Nexos (diciembre,2018).](https://seguridad.nexos.com.mx/?p=1144)
 * Investigación: Hallazgos, Seguimiento y Evaluación del Sistema de Justicia Penal en México. México Evalúa ([2018](https://www.mexicoevalua.org/mexicoevalua/wp-content/uploads/2020/03/hallazgos2017.pdf), [2019](https://www.mexicoevalua.org/hallazgos-2018-seguimiento-evaluacion-del-sistema-justicia-penal-en-mexico/)).
 * Investigación: Derechos de los usuarios en el Sistema de Justicia. [México Evalúa (octubre, 2018).](https://www.mexicoevalua.org/derechos-usuarios/)
-* Artículo: Resistir la campaña del castigo.  [Animal Político (febrero, 2018).](https://www.animalpolitico.com/lo-que-mexico-evalua/resistir-la-campana-del-castigo/)
-* Video: Endurecer el sistema penal no reduce la inseguridad. [México Evalúa (febrero, 2018).](https://www.youtube.com/watch?v=BNvq8X5HbJU&t=00s)
 * Investigación: 5013 Homicidios CDMX. [México Evalúa (2018).](https://www.mexicoevalua.org/5013-homicidios-cdmx/)
+
+## Artículos 
+* La impunidad no se resuelve con más personas en prisión. [Este país (agosto, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/personas-prision/) 
+* Datos para visibilizar la violencia sexual. [Este país (junio, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/visibilizar-violencia-sexual/) 
+* ¿A quién le toca investigar los casos de desaparición y feminicidio?. [Este país (mayo, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/investigar-desaparicion-feminicidio/) 
+* La violencia de género escala. [Este país (marzo, 2022)](https://estepais.com/tendencias_y_opiniones/impunidad-cero/violencia-genero/) 
+* Seguridad digital con perspectiva de género. [Blog de Vita Activa (febrero, 2022)](https://vita-activa.org/seguridad-digital-con-perspectiva-de-genero/) 
+* Violencia en línea. [Dialogando (marzo, 2021)](https://dialogando.com.mx/violencia-en-linea/)
+* La raíz de la violencia. [Animal Político (marzo, 2021)](https://www.animalpolitico.com/el-blog-de-causa-en-comun/la-raiz-de-la-violencia/)
+* Ser policía durante la pandemia. [El Sol de México (febrero, 2021).](https://www.elsoldemexico.com.mx/analisis/ser-policia-durante-la-pandemia-6377669.html)
+* ¿Cuánto perdemos si perdemos el sistema de justicia penal?. [Animal Político (enero, 2020).](https://www.animalpolitico.com/lo-que-mexico-evalua/cuanto-perdemos-si-perdemos-el-sistema-de-justicia-penal/)
+* La justicia desordenada. [Blog de Seguridad de Nexos (mayo, 2019).](https://seguridad.nexos.com.mx/?p=1402)
+* Prisión preventiva oficiosa: ¿más cárcel, menos víctimas?. [Blog de Seguridad de Nexos (diciembre,2018).](https://seguridad.nexos.com.mx/?p=1144)
+* Resistir la campaña del castigo.  [Animal Político (febrero, 2018).](https://www.animalpolitico.com/lo-que-mexico-evalua/resistir-la-campana-del-castigo/)
+
+## Vídeos y entrevistas
+* Entrevista: Percepción de Impunidad 2022, [Soledad Durazo en TVD (agosto, 2022).](https://www.youtube.com/watch?v=slNz1GM2xg4)
+* Entrevista: Percepción de Impunidad 2022, [Noticieros GREM (agosto, 2022).](https://www.youtube.com/watch?v=b-Sxygu6Vso)
+* Entrevista: ¿Qué falta para terminar con la impunidad en México?, [Entrevistas MeganoticiasMX (julio, 2022).](https://www.youtube.com/watch?v=mG_PneeM-RE)
+* Entrevista: Impunidad y balance de las fiscalías, [Entrevistas MeganoticiasMX (mayo, 2022).](https://www.youtube.com/watch?v=0drvw74R7g8&t=219s)
+* Entrevista: Análisis caso de Debanhi Escobar y feminicidios en México, [Radio Sonora (abril, 2022).](https://www.youtube.com/watch?v=q4T-OUGgLfw)
+* Entrevista: Índice Estatal de Desempeño de Procuradurías y Fiscalías, [Uniradioinforma (diciembre, 2021).](https://www.youtube.com/watch?v=IB6mT5FSiz4)
+* Entrevista: Balance de seguridad a inicios del año, [Noticieros Grem (marzo, 2021).](https://www.youtube.com/watch?v=O9IrX71p8UA)
+* Video: A 11 años de la reforma penal. [México Evalúa (junio, 2019).](https://www.youtube.com/watch?v=TTSIWbd39nQ&t=00s)
+* Video: Endurecer el sistema penal no reduce la inseguridad. [México Evalúa (febrero, 2018).](https://www.youtube.com/watch?v=BNvq8X5HbJU&t=00s)
+
