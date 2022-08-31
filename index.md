@@ -1,5 +1,5 @@
 # Sobre de mí
-Soy economista por la Universidad de Guanajuato y me dedico al análisis de datos sobre políticias públicas. Me especializo en temas de seguridad, justicia, derechos humanos y derechos digitales en México y Latinoamérica. Mis principales herramientas son las hojas de cálculo, R, Google Workspace y Notion. Siempre estoy en constante aprendizaje, actualmente estoy aprendiendo Python y SQL.
+Soy economista por la Universidad de Guanajuato y analista de datos sobre políticas públicas. Me especializo en temas de seguridad, justicia, derechos humanos y derechos digitales en México y Latinoamérica. Mis principales herramientas de trabajo son las hojas de cálculo, R, Google Workspace y Notion. Siempre estoy en constante aprendizaje, actualmente estoy aprendiendo Python y SQL.
 
 ## Experiencia profesional
 
