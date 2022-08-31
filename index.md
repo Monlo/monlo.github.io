@@ -52,15 +52,16 @@ En mi tesis de licenciatura “La cifra negra en México: ¿Por qué no se denun
 
 ## Reportes, publicaciones e investigaciones
 * Reporte: Percepción de impunidad 2022. [Impunidad Cero (agosto, 2022)](https://www.impunidadcero.org/uploads/app/articulo/170/contenido/1661453368W61.pdf)
+* Reporte: Justicia olvidada: violencia e impunidad en la salud reproductiva [Impunidad Cero y GIRE (mayo, 2022)](https://justiciaolvidada.gire.org.mx/wp-content/uploads/2022/05/Justicia-olvidada.-Violencia-e-impunidad-en-la-salud-reproductiva.pdf)
 * Reporte: Recomendaciones para abordar la detección e investigación del fraude cibernético en México. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057296/FRAUDE_CIBERNETICO.pdf)
 * Reporte: Modelo estandarizado para la investigación y persecución de delitos de homicidio doloso. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057298/INVESTIGACION_HOMICIDIO_DOLOSO.pdf) 
 * Reporte: Modelo estandarizado para la investigación de peculado. [Embajada Británica (octubre, 2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1057297/INVESTIGACI%C3%93N_DE_PECULADO.pdf)
 * Investigación: La Internet también es de las infancias. [LACNIC (abril, 2022)](https://descargas.lacnic.net/lideres/2021/luisa-alfaro/VERSION%20FINAL%20EXTENDIDA_La%20Internet%20tambie%CC%81n%20es%20de%20las%20Infancias.pdf) 
 * Reporte: Plataformas digitales de denuncia en México, casos de estudio y buenas prácticas. [Impunidad Cero (marzo, 2022)](https://www.impunidadcero.org/uploads/app/articulo/163/contenido/1648153688Y93.pdf) 
-* Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF). [Impunidad Cero (noviembre, 2021)](https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1638893933O19.pdf)
-* Reporte: Cambios en el panorama de las organizaciones y el financiamiento a raíz del covid-19. [Incuba ONG (noviembre, 2020)](https://www.incuba.ong/uploads/1/2/0/2/120208919/cambios_en_el_panorama_de_las_organizaciones_y_el_financiamiento_a_rai%CC%81z_del_covid-19.pdf)
-* Policy Brief: Hacia una persecución penal estratégica. [México Evalúa (enero,2019).](https://www.mexicoevalua.org/hacia-una-persecucion-penal-estrategica-policy-brief-001/)
-* Investigación: De PGR a FGR: Observatorio de la transición 2019. [México Evalúa (2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
+* Investigación: Índice Estatal de Desempeño de Procuradurías y Fiscalías (IEDF). [Impunidad Cero (noviembre, 2021)](https://www.impunidadcero.org/uploads/app/articulo/160/contenido/1649369674T53.pdf)
+* Reporte: Cambios en el panorama de las organizaciones y el financiamiento a raíz del covid-19. [Incuba ONG (noviembre, 2020)](https://drive.google.com/file/d/1dcqIO5XZjoyafNVmsvCXSMRlQVGPBIcS/view)
+* Policy Brief: Hacia una persecución penal estratégica. [México Evalúa (enero,2020).](https://www.mexicoevalua.org/mexicoevalua/wp-content/uploads/2020/02/2019_12_18_Justicia_PolicyBrief001.pdf)
+* Investigación: De PGR a FGR: Observatorio de la transición 2019. [México Evalúa (marzo, 2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
 * Investigación: Lineamientos hacia la Transición. [México Evalúa (marzo, 2019).](https://www.mexicoevalua.org/de-pgr-a-fgr-observatorio-de-la-transicion-2019/)
 * Investigación: Hallazgos, Seguimiento y Evaluación del Sistema de Justicia Penal en México. México Evalúa ([2018](https://www.mexicoevalua.org/mexicoevalua/wp-content/uploads/2020/03/hallazgos2017.pdf), [2019](https://www.mexicoevalua.org/hallazgos-2018-seguimiento-evaluacion-del-sistema-justicia-penal-en-mexico/)).
 * Investigación: Derechos de los usuarios en el Sistema de Justicia. [México Evalúa (octubre, 2018).](https://www.mexicoevalua.org/derechos-usuarios/)
